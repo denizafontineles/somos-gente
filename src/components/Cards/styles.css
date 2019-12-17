@@ -1,0 +1,9 @@
+.card-edit{
+    padding-bottom: 2rem;
+    display: flex;
+    justify-content: center;
+}
+
+.title-edit{
+    color: #17115A;
+}

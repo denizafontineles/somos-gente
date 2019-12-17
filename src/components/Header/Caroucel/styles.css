@@ -1,0 +1,12 @@
+
+h3{
+    font-size: 5rem;
+    text-align: center;
+    color: #17115A;
+}
+
+.img-carrossel{
+    height: 400px;
+    object-fit: cover;
+    object-position: center;
+}

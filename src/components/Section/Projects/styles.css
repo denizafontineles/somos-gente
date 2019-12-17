@@ -1,0 +1,20 @@
+.projects{
+    display: flex ;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-around;
+    text-align: center;
+}
+
+h3{
+    font-size: 34px;
+    text-align: center;
+    padding: 3rem;
+}
+
+
+@media (max-width: 600px) {
+    .projects{
+        flex-direction: column;
+    }
+}

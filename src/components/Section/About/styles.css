@@ -1,0 +1,13 @@
+.about{
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    padding: 4rem;
+    flex-direction: column;
+}
+
+.about-edit{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 3rem;
+}
