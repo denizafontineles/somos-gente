@@ -3,7 +3,7 @@ import { getProjects } from '../../service/base'
 import { Form, FormControl, Button, Row, Col } from 'react-bootstrap'
 
 import Cards from '../../components/Cards'
-import Cardproj from '../../components/Cardṕroj'
+import Cardproj from '../../components/Cardproj'
 import Footer from '../../components/Footer'
 
 import './styles.css'
@@ -58,7 +58,7 @@ class Projectspage extends React.Component {
             <div className="project-pg">
                 <Cardproj />
                 <div>
-                    <h3>Conheça os Projetos Sociais</h3>
+                    <h3>Conheça nossos projetos sociais</h3>
                 </div>
                 <div className="d-flex justify-content-center edit-card">
                     <Form inline className="d-flex justify-content-center col-lg inline ">
